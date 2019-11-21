@@ -10,4 +10,4 @@ This repo creates a Ubuntu Xenial64 box using Packer
  
  1. create virtual box by running command
 
-   `$ packer build template.json`
+     `$ packer build template.json`
